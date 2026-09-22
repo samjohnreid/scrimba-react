@@ -47,4 +47,8 @@ body {
       flex-direction: column;
       row-gap: 10px;
     }
+
+    li::marker {
+      color: #61DAFB;
+    }
 }
