@@ -3,8 +3,28 @@
 }
 
 body {
-    padding: 20px;
+    margin: 0;
+}
+
+.header {
+    background: #21222A;
+}
+
+.header__nav {
+    align-items: center;
+    column-gap: 10px;
+    display: flex;
+    padding: 30px;
+}
+
+.header__logo {
+    width: 40px;
+}
+
+.header__text {
+    color: #61DAFB;
     font-family: "Inter", sans-serif;
-    background: #27292c;
-    color: white;
+    font-size: 22.253px;
+    font-size: 1.4rem;
+    font-weight: 700;
 }
