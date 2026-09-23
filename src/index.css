@@ -33,7 +33,7 @@ body {
 }
 
 .main {
-    background: #282D35;
+    background: #282D35 url('../public/react-logo-half.png') no-repeat right center;
     color: #fff;
     font-family: "Inter", sans-serif;
     
